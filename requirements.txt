@@ -1,0 +1,6 @@
+requests
+selenium
+google-colab-selenium
+webdriver-manager
+pandas
+nltk
