@@ -1,3 +1,4 @@
+# Install semua library yang dibutuhkan
 !pip install requests
 !pip install selenium
 !pip install -q google-colab-selenium
@@ -31,25 +32,27 @@ from webdriver_manager.chrome import ChromeDriverManager
 import copy
 import google_colab_selenium as gs
 
+# Menyiapkan konfigurasi logging untuk memantau proses scraping
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def setup():
-
+  # Fungsi untuk menyiapkan dan mengembalikan WebDriver (Chrome) di Google Colab.
+  # Menggunakan opsi headless dan beberapa flags tambahan agar dapat berjalan stabil.
   logging.info("Menyiapkan WebDriver untuk lingkungan Google Colab...")
   chrome_options = Options()
-  chrome_options.add_argument("--headless")  
+  chrome_options.add_argument("--headless")  # Menjalankan Chrome tanpa GUI
   chrome_options.add_argument("--no-sandbox")
   chrome_options.add_argument("--disable-dev-shm-usage")
   chrome_options.add_argument("--window-size=1920,1080")
-  chrome_options.add_argument("--user-data-dir=/tmp/chrome-user-data")  =
   chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
 
+  # Inisialisasi WebDriver menggunakan ChromeDriverManager
   driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
   logging.info("WebDriver berhasil disiapkan.")
   return driver
 
 def scrape_classcentral(driver, base_url):
-
+    # Melakukan scraping dari halaman-halaman Class Central berdasarkan URL dasar.
     all_courses_data = []
     logging.info(f"Memulai scraping dari: {base_url}")
 
@@ -57,16 +60,19 @@ def scrape_classcentral(driver, base_url):
         url = f"{base_url}?page={page}"
         logging.info(f"Scraping halaman {page}: {url}")
         driver.get(url)
-        time.sleep(3)  # Jeda agar halaman sempat loading
+        time.sleep(3)  # Jeda untuk memberi waktu halaman loading
 
+        # Cari semua elemen yang merupakan nama kursus
         course_containers = driver.find_elements(By.CSS_SELECTOR, 'a.color-charcoal.course-name')
         logging.info(f"Halaman {page}: ditemukan {len(course_containers)} kursus.")
 
         for title_elem in course_containers:
             try:
+                # Ambil teks judul dan link
                 title = title_elem.text.strip()
                 link = title_elem.get_attribute('href')
 
+                # Ambil atribut JSON tersembunyi untuk informasi tambahan
                 data_props_raw = title_elem.get_attribute('data-track-props')
                 data_props = json.loads(data_props_raw)
 
@@ -77,10 +83,12 @@ def scrape_classcentral(driver, base_url):
                 is_free = data_props.get("course_is_free", False)
 
                 try:
+                    # Coba ambil teks ulasan
                     reviews = title_elem.find_element(By.XPATH, '../..').find_element(By.CSS_SELECTOR, 'span.color-gray').text.strip()
                 except:
                     reviews = "0 reviews"
 
+                # Simpan data ke list
                 all_courses_data.append({
                     'title': title,
                     'provider': provider,
@@ -96,26 +104,33 @@ def scrape_classcentral(driver, base_url):
                 logging.warning(f"Error saat membaca 1 kursus di halaman {page}: {e}")
                 continue
 
+    # Konversi hasil scraping ke DataFrame
     return pd.DataFrame(all_courses_data)
 
+# Inisialisasi WebDriver
 driver = setup()
 
+# URL target kategori kursus Computer Science
 target_url = "https://www.classcentral.com/subject/cs"
+
+# Jalankan scraping dan simpan ke DataFrame
 scraped_data = scrape_classcentral(driver, target_url)
 
+# Import Library Tambahan
 import re
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
+from nltk.stem import PorterStemmer, WordNetLemmatizer
 
+# Download resource NLTK untuk Bahasa Inggris
 nltk.download('punkt', quiet=True)
 nltk.download('stopwords', quiet=True)
-nltk.download('punkt_tab')  
+nltk.download('punkt_tab') 
 
 print("Library berhasil di-import.")
 
 # Menghapus URL, Hashtag, Emoji, Angka, dan Tanda Baca
 def clean_noise(text):
-
   # Menghapus semua tag HTML secara utuh
   text = re.sub(r'<.*?>', '', text)
   # Menghapus URL
@@ -131,7 +146,6 @@ def clean_noise(text):
   return text
 
 # Menghapus Stopwords
-
 # Define list_stopwords
 from nltk.corpus import stopwords
 list_stopwords = set(stopwords.words('english'))
@@ -150,9 +164,8 @@ def remove_stopwords(text):
 
 # Stemming
 # Membuat stemmer
-factory = StemmerFactory()
-stemmer = factory.create_stemmer()
-lemmatizer = Lemmatizer()
+stemmer = PorterStemmer()
+lemmatizer = WordNetLemmatizer()
 
 def cleaning_pipeline(text):
   text = text.lower()
@@ -161,7 +174,7 @@ def cleaning_pipeline(text):
   text = stemmer.stem(text)
   return text
 
-# Menjalankan Pipeline
+# Menjalankan Pipeline Lengkap
 driver = setup()
 df = pd.DataFrame()
 
@@ -172,7 +185,8 @@ try:
     if not df.empty:
         logging.info("\nScraping berhasil. Memulai pipeline preprocessing...")
 
-        text_before = df['title'].iloc[0]
+        # Terapkan Preprocessing ke Kolom Judul
+        text_before = df['title'].iloc[0] # Simpan contoh teks asli
         df['cleaned_title'] = df['title'].apply(cleaning_pipeline)
         logging.info("Pipeline preprocessing selesai.")
 
