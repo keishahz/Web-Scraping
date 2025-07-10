@@ -22,6 +22,8 @@ Scraping dilakukan pada 10 halaman pertama kategori Computer Science di situs Cl
 - `reviews`: Jumlah ulasan pengguna
 - `link`: Link menuju halaman kursus
 
+Jumlah data: 150 kursus (dari halaman 1 sampai 10)
+
 ### 2. Text Preprocessing
 Pembersihan teks dilakukan terhadap judul kursus dengan tahapan sebagai berikut:
 
@@ -35,7 +37,6 @@ Setelah proses pembersihan, data disimpan dalam dua format:
 
 - `classcentral.csv` – Format tabular yang mudah dibuka dengan Excel atau Pandas.
 - `classcentral.json` – Format key-value untuk interoperabilitas dengan sistem lain.
-
 
 ## Struktur Output
 
@@ -61,6 +62,16 @@ Berikut ini adalah preview dari data yang telah berhasil dikumpulkan dan dibersi
 | CS50's Web Programming with Python and JavaScript| Harvard    | English  | Certificate Available  | 4.75 ★         | Free       | 1800 reviews| cs web program python javascript |
 | Data Structures                                  | UC San Diego| English | Certificate Available  | 4.60 ★         | Free       | 1500 reviews| data structur                |
 | Machine Learning                                 | Stanford   | English  | Certificate Available  | 4.85 ★         | Free       | 5000 reviews| machin learn                 |
+
+## Kendala & Solusi
+
+Kendala:
+- Percobaan awal menggunakan BeautifulSoup gagal karena data pada situs Class Central bersifat dinamis.
+- BeautifulSoup hanya efektif untuk halaman web statis, sehingga tidak mampu menangkap elemen dinamis seperti judul kursus yang dimuat setelah JavaScript berjalan.
+
+Solusi:
+- Menggunakan Selenium WebDriver yang dapat berinteraksi dengan halaman secara langsung seperti browser sungguhan.
+- Selenium berhasil mengambil seluruh elemen kursus dari setiap halaman, sehingga proses scraping berjalan sukses.
 
 ## Link Google Colab
 
