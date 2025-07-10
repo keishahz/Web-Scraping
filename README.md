@@ -66,6 +66,7 @@ Berikut ini adalah preview dari data yang telah berhasil dikumpulkan dan dibersi
 
 Notebook lengkap dapat dijalankan secara langsung melalui Google Colab:
 https://colab.research.google.com/drive/1okFSPpk2ykvglDyRTAqEc8SXC5dmwe_Y?usp=sharing
+Atau tekan tombol berikut: HO1_MLO.ipynb
 
 ## Dependencies
 
