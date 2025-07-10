@@ -50,6 +50,18 @@ Setelah proses pembersihan, data disimpan dalam dua format:
 | Reviews         | Jumlah ulasan pengguna                          |
 | Cleaned Title   | Judul kursus yang telah dibersihkan             |
 
+## Contoh Hasil Scraping dan Preprocessing
+
+Berikut ini adalah preview dari data yang telah berhasil dikumpulkan dan dibersihkan:
+
+| Title                                            | Provider   | Language | Certificate           | Average Rating | Price Type | Reviews     | Cleaned Title                |
+|--------------------------------------------------|------------|----------|------------------------|----------------|------------|-------------|------------------------------|
+| Introduction to Computer Science                | Harvard    | English  | Certificate Available  | 4.90 ★         | Free       | 3000 reviews| introduct comput scienc     |
+| Programming for Everybody (Python)              | Michigan   | English  | Certificate Available  | 4.80 ★         | Free       | 2500 reviews| program everybodi python     |
+| CS50's Web Programming with Python and JavaScript| Harvard    | English  | Certificate Available  | 4.75 ★         | Free       | 1800 reviews| cs web program python javascript |
+| Data Structures                                  | UC San Diego| English | Certificate Available  | 4.60 ★         | Free       | 1500 reviews| data structur                |
+| Machine Learning                                 | Stanford   | English  | Certificate Available  | 4.85 ★         | Free       | 5000 reviews| machin learn                 |
+
 ## Link Google Colab
 
 Notebook lengkap dapat dijalankan secara langsung melalui Google Colab:
