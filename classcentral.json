@@ -1,0 +1,1502 @@
+[
+    {
+        "Title":"CS50's Introduction to Computer Science",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.59 \u2605",
+        "Price Type":"Free",
+        "Reviews":"198 reviews",
+        "Cleaned Title":"css introduction computer sci"
+    },
+    {
+        "Title":"Introduction to Computer Science and Programming Using Python.",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.49 \u2605",
+        "Price Type":"Free",
+        "Reviews":"131 reviews",
+        "Cleaned Title":"introduction computer science programming using python"
+    },
+    {
+        "Title":"Harvard CS50 \u2013 Full Computer Science University Course",
+        "Provider":"freeCodeCamp",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"4.73 \u2605",
+        "Price Type":"Free",
+        "Reviews":"834 reviews",
+        "Cleaned Title":"harvard cs full computer science university cours"
+    },
+    {
+        "Title":"Introduction to Electrical Engineering and Computer Science I",
+        "Provider":"MIT OpenCourseWare",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"4.68 \u2605",
+        "Price Type":"Free",
+        "Reviews":"47 reviews",
+        "Cleaned Title":"introduction electrical engineering computer sci"
+    },
+    {
+        "Title":"CS50's Computer Science for Business Professionals",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.76 \u2605",
+        "Price Type":"Free",
+        "Reviews":"21 reviews",
+        "Cleaned Title":"css computer science business profession"
+    },
+    {
+        "Title":"Computer Science 101",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.11 \u2605",
+        "Price Type":"Free",
+        "Reviews":"19 reviews",
+        "Cleaned Title":"computer sci"
+    },
+    {
+        "Title":"Internet History, Technology, and Security",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.64 \u2605",
+        "Price Type":"Free",
+        "Reviews":"42 reviews",
+        "Cleaned Title":"internet history technology secur"
+    },
+    {
+        "Title":"Computational Social Science Methods",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.71 \u2605",
+        "Price Type":"Free",
+        "Reviews":"138 reviews",
+        "Cleaned Title":"computational social science method"
+    },
+    {
+        "Title":"Functional Programming Principles in Scala",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.60 \u2605",
+        "Price Type":"Free",
+        "Reviews":"65 reviews",
+        "Cleaned Title":"functional programming principles scala"
+    },
+    {
+        "Title":"CS50's Computer Science for Lawyers",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"5.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"8 reviews",
+        "Cleaned Title":"css computer science lawy"
+    },
+    {
+        "Title":"Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.93 \u2605",
+        "Price Type":"Free",
+        "Reviews":"28 reviews",
+        "Cleaned Title":"build modern computer first principles nand tetris projectcentered cours"
+    },
+    {
+        "Title":"Computer Simulations",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.83 \u2605",
+        "Price Type":"Free",
+        "Reviews":"52 reviews",
+        "Cleaned Title":"computer simul"
+    },
+    {
+        "Title":"Computer Science for Python Programming",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"computer science python program"
+    },
+    {
+        "Title":"Computer Science for Data Science",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"computer science data sci"
+    },
+    {
+        "Title":"Computer Science for Artificial Intelligence",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"5.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"1 review",
+        "Cleaned Title":"computer science artificial intellig"
+    },
+    {
+        "Title":"Computer Science for Game Development",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"5.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"2 reviews",
+        "Cleaned Title":"computer science game develop"
+    },
+    {
+        "Title":"Computer Science for Web Programming",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"5.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"2 reviews",
+        "Cleaned Title":"computer science web program"
+    },
+    {
+        "Title":"An Introduction to Logic for Computer Science",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.67 \u2605",
+        "Price Type":"Free",
+        "Reviews":"9 reviews",
+        "Cleaned Title":"introduction logic computer sci"
+    },
+    {
+        "Title":"Computational Social Science Capstone Project",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.71 \u2605",
+        "Price Type":"Free",
+        "Reviews":"34 reviews",
+        "Cleaned Title":"computational social science capstone project"
+    },
+    {
+        "Title":"Computer Science: Programming with a Purpose",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"5.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"1283 ratings at Coursera",
+        "Cleaned Title":"computer science programming purpos"
+    },
+    {
+        "Title":"Introduction to Logic",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"3.40 \u2605",
+        "Price Type":"Free",
+        "Reviews":"20 reviews",
+        "Cleaned Title":"introduction log"
+    },
+    {
+        "Title":"Fundamentals of Computer Science",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"fundamentals computer sci"
+    },
+    {
+        "Title":"CS For All: Introduction to Computer Science and Python Programming",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"5.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"4 reviews",
+        "Cleaned Title":"cs introduction computer science python program"
+    },
+    {
+        "Title":"Introduction to Computer Science and Programming in Python",
+        "Provider":"MIT OpenCourseWare",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"4.60 \u2605",
+        "Price Type":"Free",
+        "Reviews":"5 reviews",
+        "Cleaned Title":"introduction computer science programming python"
+    },
+    {
+        "Title":"Introduction to Computer Science and Programming",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"introduction computer science program"
+    },
+    {
+        "Title":"Concepts in Computer Science",
+        "Provider":"DataCamp",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"concepts computer sci"
+    },
+    {
+        "Title":"Introduction to Computer Science and Programming",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"introduction computer science program"
+    },
+    {
+        "Title":"Bachelor of Science in Computer Science (BCS) Online Degree",
+        "Provider":"University of the People",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"bachelor science computer science bcs online degre"
+    },
+    {
+        "Title":"Associate of Science in Computer Science (ACS) Online Degree",
+        "Provider":"University of the People",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"associate science computer science acs online degre"
+    },
+    {
+        "Title":"Introduction to Computer Science and Programming (Fall 2008)",
+        "Provider":"MIT OpenCourseWare",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"5.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"1 review",
+        "Cleaned Title":"introduction computer science programming fal"
+    },
+    {
+        "Title":"Introduction to Software Product Management",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.42 \u2605",
+        "Price Type":"Free",
+        "Reviews":"12 reviews",
+        "Cleaned Title":"introduction software product manag"
+    },
+    {
+        "Title":"Mathematics for Computer Science",
+        "Provider":"MIT OpenCourseWare",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"4.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"1 review",
+        "Cleaned Title":"mathematics computer sci"
+    },
+    {
+        "Title":"Master of Computer Science",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"master computer sci"
+    },
+    {
+        "Title":"Computer Science 101: Master the Theory Behind Programming",
+        "Provider":"Udemy",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"6391 ratings at Udemy",
+        "Cleaned Title":"computer science master theory behind program"
+    },
+    {
+        "Title":"Introduction to Computer Science and Programming (Spring 2011)",
+        "Provider":"MIT OpenCourseWare",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"5.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"1 review",
+        "Cleaned Title":"introduction computer science programming spr"
+    },
+    {
+        "Title":"Mathematics for Computer Science",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"5.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"242 ratings at Coursera",
+        "Cleaned Title":"mathematics computer sci"
+    },
+    {
+        "Title":"Computer Science 101 - Computers & Programming for Beginners",
+        "Provider":"Udemy",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"2185 ratings at Udemy",
+        "Cleaned Title":"computer science computers programming beginn"
+    },
+    {
+        "Title":"CS50's Understanding Technology",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"4.40 \u2605",
+        "Price Type":"Free",
+        "Reviews":"15 reviews",
+        "Cleaned Title":"css understanding technolog"
+    },
+    {
+        "Title":"Foundations of Computer Science",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"111 ratings at Coursera",
+        "Cleaned Title":"foundations computer sci"
+    },
+    {
+        "Title":"Computer Science by CrashCourse",
+        "Provider":"Independent",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"5.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"1 review",
+        "Cleaned Title":"computer science crashcours"
+    },
+    {
+        "Title":"Introduction to Computer Science and Programming",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"5.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"1 review",
+        "Cleaned Title":"introduction computer science program"
+    },
+    {
+        "Title":"Computer Science Principles: Digital Information",
+        "Provider":"LinkedIn Learning",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"1291 ratings at LinkedIn Learning",
+        "Cleaned Title":"computer science principles digital inform"
+    },
+    {
+        "Title":"Computer Science Summer Program (High School) (Live Online)",
+        "Provider":"CourseHorse",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"52 ratings at CourseHorse",
+        "Cleaned Title":"computer science summer program high school live onlin"
+    },
+    {
+        "Title":"Accelerated Computer Science Fundamentals",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"accelerated computer science fundament"
+    },
+    {
+        "Title":"Bachelor of Computer Science",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"bachelor computer sci"
+    },
+    {
+        "Title":"Graduate Certificate in Computer Science",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"graduate certificate computer sci"
+    },
+    {
+        "Title":"Graduate Diploma in Computer Science",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"graduate diploma computer sci"
+    },
+    {
+        "Title":"Ace the Computer Science Interview: Strategies for Success",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"ace computer science interview strategies success"
+    },
+    {
+        "Title":"General Computer Science Lessons",
+        "Provider":"Study.com",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"general computer science lesson"
+    },
+    {
+        "Title":"MTTC Computer Science (050): Practice & Study Guide",
+        "Provider":"Study.com",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"mttc computer science practice study guid"
+    },
+    {
+        "Title":"OAE Computer Information Science (010): Study Guide & Practice",
+        "Provider":"Study.com",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"oae computer information science study guide practic"
+    },
+    {
+        "Title":"Computer Science: Help and Review",
+        "Provider":"Study.com",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"computer science help review"
+    },
+    {
+        "Title":"Praxis 5652 Study Guide - Computer Science Exam Prep",
+        "Provider":"Study.com",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"praxis study guide computer science exam prep"
+    },
+    {
+        "Title":"Foundations of Computer Science: Theory and Practice",
+        "Provider":"Udemy",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"746 ratings at Udemy",
+        "Cleaned Title":"foundations computer science theory practic"
+    },
+    {
+        "Title":"Computer Science Principles: Programming",
+        "Provider":"LinkedIn Learning",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"712 ratings at LinkedIn Learning",
+        "Cleaned Title":"computer science principles program"
+    },
+    {
+        "Title":"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.71 \u2605",
+        "Price Type":"Free",
+        "Reviews":"68 reviews",
+        "Cleaned Title":"divide conquer sorting searching randomized algorithm"
+    },
+    {
+        "Title":"Cryptography I",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.66 \u2605",
+        "Price Type":"Free",
+        "Reviews":"53 reviews",
+        "Cleaned Title":"cryptographi"
+    },
+    {
+        "Title":"Computer Science Principles: The Internet",
+        "Provider":"LinkedIn Learning",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"541 ratings at LinkedIn Learning",
+        "Cleaned Title":"computer science principles internet"
+    },
+    {
+        "Title":"Artificial Intelligence",
+        "Provider":"MIT OpenCourseWare",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"4.66 \u2605",
+        "Price Type":"Free",
+        "Reviews":"150 reviews",
+        "Cleaned Title":"artificial intellig"
+    },
+    {
+        "Title":"Online Master of Science in Computer Science (OMSCS)",
+        "Provider":"Independent",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"online master science computer science omsc"
+    },
+    {
+        "Title":"Computer Science MetaBootcamp: Beginner to Intermediate 2025",
+        "Provider":"Udemy",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"338 ratings at Udemy",
+        "Cleaned Title":"computer science metabootcamp beginner intermedi"
+    },
+    {
+        "Title":"Computer Architecture",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"4.17 \u2605",
+        "Price Type":"Free",
+        "Reviews":"6 reviews",
+        "Cleaned Title":"computer architectur"
+    },
+    {
+        "Title":"Fundamentos TIC para profesionales de negocios: Hardware",
+        "Provider":"edX",
+        "Language":"Spanish",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.61 \u2605",
+        "Price Type":"Free",
+        "Reviews":"33 reviews",
+        "Cleaned Title":"fundamentos tic para profesionales de negocios hardwar"
+    },
+    {
+        "Title":"Algorithms, Part I",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"4.48 \u2605",
+        "Price Type":"Free",
+        "Reviews":"62 reviews",
+        "Cleaned Title":"algorithms part"
+    },
+    {
+        "Title":"How to Program: Computer Science Concepts and Python Exercises",
+        "Provider":"The Great Courses Plus",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"193 ratings at The Great Courses Plus",
+        "Cleaned Title":"program computer science concepts python exercis"
+    },
+    {
+        "Title":"Algorithmic Toolbox",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"3.57 \u2605",
+        "Price Type":"Free",
+        "Reviews":"23 reviews",
+        "Cleaned Title":"algorithmic toolbox"
+    },
+    {
+        "Title":"Machine Learning Foundations: A Case Study Approach",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"3.95 \u2605",
+        "Price Type":"Free",
+        "Reviews":"40 reviews",
+        "Cleaned Title":"machine learning foundations case study approach"
+    },
+    {
+        "Title":"Usable Security",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"3.12 \u2605",
+        "Price Type":"Free",
+        "Reviews":"8 reviews",
+        "Cleaned Title":"usable secur"
+    },
+    {
+        "Title":"Introduction to Programming and Computer Science - Full Course",
+        "Provider":"freeCodeCamp",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"5.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"1 review",
+        "Cleaned Title":"introduction programming computer science full cours"
+    },
+    {
+        "Title":"Harvard CS50 (2023) \u2013 Full Computer Science University Course",
+        "Provider":"freeCodeCamp",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"4.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"1 review",
+        "Cleaned Title":"harvard cs full computer science university cours"
+    },
+    {
+        "Title":"Sr.Secondary : Computer Science (330)",
+        "Provider":"Swayam",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"srsecondary computer sci"
+    },
+    {
+        "Title":"CS101: Introduction to Computer Science I",
+        "Provider":"Saylor Academy",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"cs introduction computer sci"
+    },
+    {
+        "Title":"Program Arcade Games - Learn Computer Science",
+        "Provider":"Independent",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"program arcade games learn computer sci"
+    },
+    {
+        "Title":"Think Like a Computer Science Professor",
+        "Provider":"freeCodeCamp",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"think like computer science professor"
+    },
+    {
+        "Title":"Memory - Intro to Computer Science - Harvard's CS50 (2018)",
+        "Provider":"freeCodeCamp",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"memory intro computer science harvards c"
+    },
+    {
+        "Title":"Program Arcade Games - Learn Computer Science",
+        "Provider":"Independent",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"program arcade games learn computer sci"
+    },
+    {
+        "Title":"Harvard CS50 (2023) \u2013 Full Computer Science University Course",
+        "Provider":"freeCodeCamp",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"harvard cs full computer science university cours"
+    },
+    {
+        "Title":"Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"3.57 \u2605",
+        "Price Type":"Free",
+        "Reviews":"7 reviews",
+        "Cleaned Title":"image video processing mars hollywood stop hospit"
+    },
+    {
+        "Title":"Information Systems Auditing, Controls and Assurance",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.72 \u2605",
+        "Price Type":"Free",
+        "Reviews":"762 reviews",
+        "Cleaned Title":"information systems auditing controls assur"
+    },
+    {
+        "Title":"Cloud Computing Applications, Part 1: Cloud Systems and Infrastructure",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"3.11 \u2605",
+        "Price Type":"Free",
+        "Reviews":"9 reviews",
+        "Cleaned Title":"cloud computing applications part cloud systems infrastructur"
+    },
+    {
+        "Title":"Functional Program Design in Scala",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.53 \u2605",
+        "Price Type":"Free",
+        "Reviews":"40 reviews",
+        "Cleaned Title":"functional program design scala"
+    },
+    {
+        "Title":"C for Everyone: Programming Fundamentals",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.40 \u2605",
+        "Price Type":"Free",
+        "Reviews":"5 reviews",
+        "Cleaned Title":"c everyone programming fundament"
+    },
+    {
+        "Title":"Sample-based Learning Methods",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.65 \u2605",
+        "Price Type":"Free",
+        "Reviews":"43 reviews",
+        "Cleaned Title":"samplebased learning method"
+    },
+    {
+        "Title":"Unlocking the Power of Generative AI with ChatGPT for Higher Education",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.75 \u2605",
+        "Price Type":"Free",
+        "Reviews":"69 reviews",
+        "Cleaned Title":"unlocking power generative ai chatgpt higher educ"
+    },
+    {
+        "Title":"Twintrees, Baxter Permutations, and Floorplans in Computer Science - Lecture 2022",
+        "Provider":"YouTube",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"twintrees baxter permutations floorplans computer science lectur"
+    },
+    {
+        "Title":"Language, Proof and Logic",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"3 reviews",
+        "Cleaned Title":"language proof log"
+    },
+    {
+        "Title":"Understanding the World Through Data",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"36 ratings at edX",
+        "Cleaned Title":"understanding world data"
+    },
+    {
+        "Title":"Introduction to Computational Science and Engineering",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"introduction computational science engin"
+    },
+    {
+        "Title":"\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u3057\u306a\u304c\u3089\u5b66\u3076\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30b9\u5165\u9580 : Introduction to Computer Science and Programming",
+        "Provider":"edX",
+        "Language":"Japanese",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u3057\u306a\u304c\u3089\u5b66\u3076\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30b9\u5165\u9580 introduction computer science program"
+    },
+    {
+        "Title":"\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u3057\u306a\u304c\u3089\u5b66\u3076\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30b9\u5165\u9580 : Introduction to Computer Science and Programming",
+        "Provider":"edX",
+        "Language":"Japanese",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u3057\u306a\u304c\u3089\u5b66\u3076\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30b9\u5165\u9580 introduction computer science program"
+    },
+    {
+        "Title":"Hardware Security",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"2.89 \u2605",
+        "Price Type":"Free",
+        "Reviews":"9 reviews",
+        "Cleaned Title":"hardware secur"
+    },
+    {
+        "Title":"Computational Thinking for Modeling and Simulation",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"2.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"1 review",
+        "Cleaned Title":"computational thinking modeling simul"
+    },
+    {
+        "Title":"Computational Thinking using Python",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"1 review",
+        "Cleaned Title":"computational thinking using python"
+    },
+    {
+        "Title":"Elements of AI",
+        "Provider":"Independent",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.80 \u2605",
+        "Price Type":"Free",
+        "Reviews":"920 reviews",
+        "Cleaned Title":"elements ai"
+    },
+    {
+        "Title":"Neural Networks and Deep Learning",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.81 \u2605",
+        "Price Type":"Free",
+        "Reviews":"16 reviews",
+        "Cleaned Title":"neural networks deep learn"
+    },
+    {
+        "Title":"Algorithms, Part II",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"4.76 \u2605",
+        "Price Type":"Free",
+        "Reviews":"21 reviews",
+        "Cleaned Title":"algorithms part ii"
+    },
+    {
+        "Title":"Data Structures and Algorithms in Python - Full Course for Beginners",
+        "Provider":"freeCodeCamp",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"4.59 \u2605",
+        "Price Type":"Free",
+        "Reviews":"208 reviews",
+        "Cleaned Title":"data structures algorithms python full course beginn"
+    },
+    {
+        "Title":"Responsive Web Design",
+        "Provider":"freeCodeCamp",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.60 \u2605",
+        "Price Type":"Free",
+        "Reviews":"115 reviews",
+        "Cleaned Title":"responsive web design"
+    },
+    {
+        "Title":"Machine Learning for Musicians and Artists",
+        "Provider":"Kadenze",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.76 \u2605",
+        "Price Type":"Free",
+        "Reviews":"94 reviews",
+        "Cleaned Title":"machine learning musicians artist"
+    },
+    {
+        "Title":"Fundamentos TIC para profesionales de negocios: Desarrollo de Software",
+        "Provider":"edX",
+        "Language":"Spanish",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.38 \u2605",
+        "Price Type":"Free",
+        "Reviews":"26 reviews",
+        "Cleaned Title":"fundamentos tic para profesionales de negocios desarrollo de softwar"
+    },
+    {
+        "Title":"Introduction to Generative AI",
+        "Provider":"Google Cloud Skills Boost",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.54 \u2605",
+        "Price Type":"Free",
+        "Reviews":"149 reviews",
+        "Cleaned Title":"introduction generative ai"
+    },
+    {
+        "Title":"Shafi Goldwasser: Journey from Israel to Turing Award - A Life in Computer Science",
+        "Provider":"YouTube",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"shafi goldwasser journey israel turing award life computer sci"
+    },
+    {
+        "Title":"Binary and Computer Science All-in-One Tutorial Series",
+        "Provider":"YouTube",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"binary computer science allinone tutorial seri"
+    },
+    {
+        "Title":"Fundamentals of Reinforcement Learning",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.88 \u2605",
+        "Price Type":"Free",
+        "Reviews":"24 reviews",
+        "Cleaned Title":"fundamentals reinforcement learn"
+    },
+    {
+        "Title":"Advanced HTML & CSS (Live Online)",
+        "Provider":"Noble Desktop",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"160 ratings at Noble Desktop",
+        "Cleaned Title":"advanced html css live onlin"
+    },
+    {
+        "Title":"Machine Learning: Regression",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.60 \u2605",
+        "Price Type":"Free",
+        "Reviews":"20 reviews",
+        "Cleaned Title":"machine learning regress"
+    },
+    {
+        "Title":"Performance Engineering of Software Systems",
+        "Provider":"MIT OpenCourseWare",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"4.86 \u2605",
+        "Price Type":"Free",
+        "Reviews":"7 reviews",
+        "Cleaned Title":"performance engineering software system"
+    },
+    {
+        "Title":"Introducci\u00f3n a la programaci\u00f3n en C: Tipos de datos y estructuras",
+        "Provider":"edX",
+        "Language":"Spanish",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.58 \u2605",
+        "Price Type":"Free",
+        "Reviews":"24 reviews",
+        "Cleaned Title":"introducci\u00f3n la programaci\u00f3n en c tipos de datos estructura"
+    },
+    {
+        "Title":"Programming for Everyone \u2013 An Introduction to Visual Programming Languages",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"3.80 \u2605",
+        "Price Type":"Free",
+        "Reviews":"5 reviews",
+        "Cleaned Title":"programming everyone introduction visual programming languag"
+    },
+    {
+        "Title":"Advanced Algorithms - COMPSCI 224",
+        "Provider":"YouTube",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"4.78 \u2605",
+        "Price Type":"Free",
+        "Reviews":"32 reviews",
+        "Cleaned Title":"advanced algorithms compsci"
+    },
+    {
+        "Title":"ChatGPT Prompt Engineering Course",
+        "Provider":"YouTube",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"4.65 \u2605",
+        "Price Type":"Free",
+        "Reviews":"463 reviews",
+        "Cleaned Title":"chatgpt prompt engineering cours"
+    },
+    {
+        "Title":"Accessible Gamification",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"accessible gamif"
+    },
+    {
+        "Title":"Computational Thinking for Problem Solving",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"1420 ratings at Coursera",
+        "Cleaned Title":"computational thinking problem solv"
+    },
+    {
+        "Title":"Computer Science and IT at the University of Melbourne - Faculty of Engineering and IT Overview",
+        "Provider":"YouTube",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"computer science university melbourne faculty engineering overview"
+    },
+    {
+        "Title":"Equality in Computer Science - Sociological and Mathematical Perspectives",
+        "Provider":"YouTube",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"equality computer science sociological mathematical perspect"
+    },
+    {
+        "Title":"My Plan B: Exploring Alternative Strategies in Computer Science Research",
+        "Provider":"YouTube",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"plan b exploring alternative strategies computer science research"
+    },
+    {
+        "Title":"Introduction to Computer Science with CS50 - The Most Popular Course on edX",
+        "Provider":"YouTube",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"introduction computer science cs popular course edx"
+    },
+    {
+        "Title":"Computer Science Graduate School Research and Programming Best Practices",
+        "Provider":"YouTube",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"computer science graduate school research programming best practic"
+    },
+    {
+        "Title":"Introduction to the Internet of Things and Embedded Systems",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"13 reviews",
+        "Cleaned Title":"introduction internet things embedded system"
+    },
+    {
+        "Title":"CS50's Introduction to Artificial Intelligence with Python",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.69 \u2605",
+        "Price Type":"Free",
+        "Reviews":"26 reviews",
+        "Cleaned Title":"css introduction artificial intelligence python"
+    },
+    {
+        "Title":"Arduino Course for Beginners - Open-Source Electronics Platform",
+        "Provider":"freeCodeCamp",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"4.77 \u2605",
+        "Price Type":"Free",
+        "Reviews":"61 reviews",
+        "Cleaned Title":"arduino course beginners opensource electronics platform"
+    },
+    {
+        "Title":"Software Construction: Object-Oriented Design",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"2.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"5 ratings at edX",
+        "Cleaned Title":"software construction objectoriented design"
+    },
+    {
+        "Title":"Software Construction: Data Abstraction",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"3.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"1 review",
+        "Cleaned Title":"software construction data abstract"
+    },
+    {
+        "Title":"Software Engineering: Introduction",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"3.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"18 ratings at edX",
+        "Cleaned Title":"software engineering introduct"
+    },
+    {
+        "Title":"LAFF-On Programming for High Performance",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"laffon programming high perform"
+    },
+    {
+        "Title":"LAFF \u2013 On Programming for Correctness",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"laff programming correct"
+    },
+    {
+        "Title":"Advanced Data Structures in Java",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"3.50 \u2605",
+        "Price Type":"Free",
+        "Reviews":"1240 ratings at Coursera",
+        "Cleaned Title":"advanced data structures java"
+    },
+    {
+        "Title":"Practical Machine Learning",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"3.37 \u2605",
+        "Price Type":"Free",
+        "Reviews":"27 reviews",
+        "Cleaned Title":"practical machine learn"
+    },
+    {
+        "Title":"JavaScript Algorithms and Data Structures",
+        "Provider":"freeCodeCamp",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.73 \u2605",
+        "Price Type":"Free",
+        "Reviews":"52 reviews",
+        "Cleaned Title":"javascript algorithms data structur"
+    },
+    {
+        "Title":"Nature, in Code: Biology in JavaScript",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"3.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"1 review",
+        "Cleaned Title":"nature code biology javascript"
+    },
+    {
+        "Title":"Tutorial on Computer Science - Josh Grochow",
+        "Provider":"YouTube",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"tutorial computer science josh grochow"
+    },
+    {
+        "Title":"Introduction to Computer Science - Lecture 1",
+        "Provider":"YouTube",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"introduction computer science lectur"
+    },
+    {
+        "Title":"CSEP 590A - Lecture 11: Advanced Topics in Computer Science",
+        "Provider":"YouTube",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"csep lecture advanced topics computer sci"
+    },
+    {
+        "Title":"CS201 - Introduction to Computer Science - November 16, 2023",
+        "Provider":"YouTube",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"cs introduction computer science novemb"
+    },
+    {
+        "Title":"CS 201 - Introduction to Computer Science - Lecture 3\/16\/2023",
+        "Provider":"YouTube",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"cs introduction computer science lectur"
+    },
+    {
+        "Title":"Computer Science Topics for Rails Developers - Relevance and Applications",
+        "Provider":"YouTube",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"computer science topics rails developers relevance appl"
+    },
+    {
+        "Title":"C Programming: Modular Programming and Memory Management",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"3.33 \u2605",
+        "Price Type":"Free",
+        "Reviews":"8 ratings at edX",
+        "Cleaned Title":"c programming modular programming memory manag"
+    },
+    {
+        "Title":"Constraint Programming",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"5.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"1 review",
+        "Cleaned Title":"constraint program"
+    },
+    {
+        "Title":"Introduction to the Internet of Things",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.66 \u2605",
+        "Price Type":"Free",
+        "Reviews":"35 reviews",
+        "Cleaned Title":"introduction internet th"
+    },
+    {
+        "Title":"Algorithms and Data Structures Tutorial - Full Course for Beginners",
+        "Provider":"freeCodeCamp",
+        "Language":"English",
+        "Certificate":"No Certificate",
+        "Average Rating":"4.36 \u2605",
+        "Price Type":"Free",
+        "Reviews":"89 reviews",
+        "Cleaned Title":"algorithms data structures tutorial full course beginn"
+    },
+    {
+        "Title":"C Programming: Getting Started",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"20 ratings at edX",
+        "Cleaned Title":"c programming getting start"
+    },
+    {
+        "Title":"Spatial Computational Thinking",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Paid",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"spatial computational think"
+    },
+    {
+        "Title":"Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+        "Provider":"Coursera",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"4.04 \u2605",
+        "Price Type":"Free",
+        "Reviews":"27 reviews",
+        "Cleaned Title":"responsive website basics code html css javascript"
+    },
+    {
+        "Title":"Building a RISC-V CPU Core",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"21 ratings at edX",
+        "Cleaned Title":"building riscv cpu cor"
+    },
+    {
+        "Title":"Computer Architecture Essentials on Arm",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"11 ratings at edX",
+        "Cleaned Title":"computer architecture essentials arm"
+    },
+    {
+        "Title":"Cloud Computing Engineering and Management",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"6 ratings at edX",
+        "Cleaned Title":"cloud computing engineering manag"
+    },
+    {
+        "Title":"Introduction to RISC-V",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"6 ratings at edX",
+        "Cleaned Title":"introduction riscv"
+    },
+    {
+        "Title":"Computer Architecture",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"computer architectur"
+    },
+    {
+        "Title":"Computer System Design: Advanced Concepts of Modern Microprocessors",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"computer system design advanced concepts modern microprocessor"
+    },
+    {
+        "Title":"Computer Systems Design for Energy Efficiency",
+        "Provider":"edX",
+        "Language":"English",
+        "Certificate":"Certificate Available",
+        "Average Rating":"0.00 \u2605",
+        "Price Type":"Free",
+        "Reviews":"0 reviews",
+        "Cleaned Title":"computer systems design energy effici"
+    }
+]
